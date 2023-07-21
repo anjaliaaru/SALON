@@ -1,0 +1,75 @@
+/* .card{
+    display: flex;
+  flex-direction: column;
+ 
+} */
+/* .card{
+    margin-top:6rem ;
+    margin-bottom: 6rem;
+} */
+
+/* .card img{
+    
+    width: 26rem;
+
+} */
+
+.card{
+    
+    width: 18rem;
+    margin-left: 10rem;
+   
+    margin-top: 4rem;
+}
+/* .gallery{
+    margin: 2rem;
+} */
+.btn{
+    /* background-color: green;
+    padding: 5px;
+    float: right;
+    margin-right: 5rem; */
+    
+}
+
+.card img{
+    height:120px;
+}
+.container1{
+   margin-top: 4rem;
+    background-color: burlywood;
+}
+.icon{
+   
+    padding:5px;
+    
+font-size: 10px ;
+
+color: blueviolet;
+} 
+
+
+.icons{
+   
+    padding:5px;
+    float: right;
+font-size: 10px ;
+
+color: blueviolet;
+}
+.icon1{
+    padding:5px;
+    font-size: 10px ;
+    
+}
+.icon2{
+    
+    padding:5px;
+font-size: 10px ;
+
+}
+.del{
+   float: right;
+   border: 1px solid black;
+   padding: 6px;
+}
